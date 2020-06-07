@@ -1,0 +1,23 @@
+-- Core Save --
+Global Speed: 1 #(speeder)
+
+-- Player Save --
+
+-- High Score --
+Name: Jane
+Score: 2
+SaveNb: 1
+Name: Jheaneu
+Score: 2
+SaveNb: 2
+Name: Jean
+Score: 1
+SaveNb: 3
+Name: Joan-Yeux
+Score: 4
+SaveNb:4
+
+-- Bonus idea --
+Bonus Cooldown: 3 sec
+Movement speed: 2 time (speeder)
+Speed boost Space Bar: 1.05 time (speeder)

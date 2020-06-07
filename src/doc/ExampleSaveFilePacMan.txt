@@ -1,0 +1,32 @@
+-- Core Save --
+Fear Ghost Cooldown: 10 sec # 0-10 the time ghost are fear
+Special Pacgums Used Cooldown: 10 sec # 0-10 the time the special pacgums still working
+Ghost Movement Speed: 1 # speeder
+Global Speed: 1 # speeder
+
+-- Player Save --
+Name: Jean
+Score: 1
+SaveNb: 3
+Life: 2
+
+-- High Score --
+Name: Jane
+Score: 2
+SaveNb: 1
+
+Name: Jheaneu
+Score: 2
+SaveNb: 2
+
+Name: Joan-Yeux
+Score: 4
+SaveNb:4
+
+-- Bonus idea --
+Bonus Cooldown: 3 sec # The fruit that will appear in '' sec
+Bonus Usable Cooldown: 0 sec # The fruit that appear stay '' sec longer
+Bonus Effect Cooldown: 0 sec # The effect of the fruit stay '' sec longer
+Bonus Effect: Speed 10 # the keyWord 'Speed' is the effect of the bonus, the value after is the multiplier
+Movement speed: 2 time # speeder
+Speed boost Space Bar: 1.05 time # speeder, can do it too in pacman, so we have per level a minimum speed, like the player want a speed to 10 in level 3, and in level 4 for the min speed is 9, he keep his max speed, at level 5 the min speed is 12, his speed increase
